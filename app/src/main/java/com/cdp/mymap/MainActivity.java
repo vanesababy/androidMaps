@@ -15,6 +15,8 @@ import com.google.android.gms.maps.model.MarkerOptions;
 
 public class MainActivity extends AppCompatActivity implements OnMapReadyCallback, GoogleMap.OnMapClickListener, GoogleMap.OnMapLongClickListener {
 
+
+    
     EditText txtLatitud, txtLongitud;
     GoogleMap mMap;
 
